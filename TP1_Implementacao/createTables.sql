@@ -1,0 +1,8 @@
+CREATE TABLE financas(
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  financas FLOAT NOT NULL,
+  data VARCHAR(45) NOT NULL,
+  categorias VARCHAR(45) NOT NULL
+  )
+  
+  
